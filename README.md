@@ -1,5 +1,9 @@
 # Python-Tesseract
+## 画像から数字か文字列の抽出処理のサンプル
+OCRエンジンを利用して画像から文字列とか数字を抽出処理のサンプル。
+そこそこ実用的なレベルまでいったかな？
 
+# 環境構築とかコマンド例
 ## docker-compose up
 % docker-compose up --build tesseract-service
 
